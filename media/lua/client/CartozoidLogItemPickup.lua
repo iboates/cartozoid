@@ -1,0 +1,10 @@
+--local function CartozoidEveryTenMinutes()
+--    player = getPlayer();
+--    playerX = math.floor(player:getX());
+--    playerY = math.floor(player:getY());
+--    local fileWriter = getFileWriter(playerModData.CartozoidUUID..".txt", true, true);
+--    fileWriter:writeln(playerX..";"..playerY..";")
+--    fileWriter:close()
+--end
+--
+--Events.EveryTenMinutes.Add(CartozoidEveryTenMinutes);

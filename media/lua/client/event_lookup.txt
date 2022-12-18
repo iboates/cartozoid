@@ -1,0 +1,2 @@
+=playerPosition
+0=zombieKill
