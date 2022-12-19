@@ -1,2 +1,4 @@
-=playerPosition
-0=zombieKill
+=playerPositionChanged
+0=zombieDied
+1=wentToSleep
+2=wokeUp
